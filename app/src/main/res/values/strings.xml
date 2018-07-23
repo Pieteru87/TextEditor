@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Editor</string>
+    <string name="txtBtnSimpan">Simpan</string>
+    <string name="action_menu1">Sharing</string>
+    <string name="action_menu2">Rename</string>
+    <string name="action_menu3">Delete</string>
+    <string name="pesan_rename">Ketikan nama file nya saja</string>
+    <string name="image_desc">Image</string>
+</resources>
